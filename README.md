@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Привет, я Sofer/Erbium
 
-<!--
-**Erbium1337/Erbium1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Мои языки программирования
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8A00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Основные проекты
+
+* **🧊 Arctic Client** - Чит под майнкрафт для серверов с Sloth AC
+* **🛡 WallHack Roblox** - Валлхак для роблокса полностью написанный на Python
+
+### Связь со мной
+
+* **Мой проэкт:** [@BETADLC](https://t.me/BETADLC)
+* **GitHub:** [Erbium1337](https://github.com/Erbium1337)
+
+---
+<p align="center">
+  <i>"Люблю спать🥱"</i>
+</p>
